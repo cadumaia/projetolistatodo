@@ -39,3 +39,7 @@ input{
 .todo {
   box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
 }
+
+.filter-options div {
+  flex: 1 1 0;
+}
