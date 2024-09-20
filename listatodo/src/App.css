@@ -1,0 +1,41 @@
+body{
+  padding: 30px;
+  background-image: url('/fundosite.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.app {
+  font-family: Helvetica;
+  max-width: 600px;
+  margin: 0 auto 300px;
+  background-color: black;
+  padding: 20px 30px;
+  border-radius: 10px;
+  color: white
+}
+
+h1{
+  text-align: center;
+}
+
+h2 { 
+margin-bottom: 10px;
+}
+
+p{
+  margin:10px 0;
+}
+
+input{
+  box-sizing: border-box;
+}
+
+.todo-list{
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1 px solid #555;
+}
+
+.todo {
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
