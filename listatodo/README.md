@@ -1,8 +1,29 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# To Do List
 
-Currently, two official plugins are available:
+Pequeno projeto desenvolvido a fim de aplicar conceitos básicos de React JS com Bootstrap, futuramente sendo integrado a uma estrutura de Local Storage com o objetivo de salvar os dados alterados no estado da aplicação.
+## Finalidades e Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Lembretes
+- Filtro de Tarefas (Completas x Incompletas)
+- Ordenação por Ordem Alfabética
+
+
+## Stack utilizada
+
+**React JS com Vite e Bootstrap** 
+
+
+
+
+
+
+## Demonstração
+Executado localmente na máquina, por enquanto.
+
+## Resumo da Página em Screenshots
+
+![App Screenshot](https://i.postimg.cc/QdVXRSPJ/Print-To-Do-List.png)
+![App Screenshot](https://i.postimg.cc/PqgrbZSz/Print-To-Do-List2.png)
+
+
