@@ -1,3 +1,37 @@
-<h1> Detalhes sobre o projeto no README da pasta "listatodo" !!! </h1>
+# To Do List
 
-<img align="left" height="250"     src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+Pequeno projeto desenvolvido a fim de aplicar conceitos básicos de React JS com Bootstrap, futuramente sendo integrado a uma estrutura de Local Storage com o objetivo de salvar os dados alterados no estado da aplicação.
+## Finalidades e Funcionalidades
+
+- Lembretes
+- Pesquisa de Tarefas
+- Filtro de Tarefas (Completas x Incompletas)
+- Ordenação por Ordem Alfabética
+
+
+## Stack utilizada
+
+**React JS com Vite e Bootstrap** 
+
+
+
+
+
+
+## Demonstração
+Executado localmente na máquina, por enquanto.
+
+## Resumo da Página em Screenshots
+![App Screenshot](https://i.postimg.cc/QdVXRSPJ/Print-To-Do-List.png)
+![App Screenshot](https://i.postimg.cc/qqjNGqhJ/printtodo2.png)
+
+## Rodando a aplicação:
+
+Para rodar a To Do List:
+
+```bash
+  npm run dev 
+```
+->
+Conectar ao endereço provido ao LocalHost
+
